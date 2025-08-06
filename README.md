@@ -14,4 +14,4 @@ I am an undergraduate Business Administration with a specialization in Marketing
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="pchavezbohorquez@gmail.com">PaolaChavezBohorquez</a>
+- 📫 Reach out to me at: <a href="pchavezbohorquez@gmail.com">@pchavezbohorquez</a>
