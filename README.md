@@ -7,10 +7,14 @@
 I am an undergraduate Business Administration with a specialization in Marketing. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Brand Strategy, and digital marketing**
 - 🌱 I’m currently learning ...
+  
   - HTML
   - CSS
   - JAVASCRIPT
-  - THREE.JS
+  - Advanced UX/UI design  
+  - AI integration for marketing & design processes  
+  - Web-based 3D & animation (Three.js & WebGL) 
+    
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
