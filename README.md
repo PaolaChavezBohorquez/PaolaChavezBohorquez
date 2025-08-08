@@ -78,9 +78,9 @@ I am an undergraduate Business Administration with a specialization in Marketing
 Let's discuss your unique project needs, whether it's web scraping, data extraction, or automation. I am ready to collaborate and turn your vision into a reality. 🌟
 
 <section align="center" style="margin-left: 10px; margin-bottom: 27px;">
-	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.upwork.com/freelancers/dagima6">
-		<img src="[https://www.svgrepo.com/svg/521502/behance.svg" width="45px">
-	</a>
+<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.behance.net/Paolachavezbohorquez">
+  <img src="https://www.svgrepo.com/show/521502/behance.svg" width="45px" alt="Behance">
+</a>
 	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/Paolachavezbohorquez">
 		<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px">
 	</a>
