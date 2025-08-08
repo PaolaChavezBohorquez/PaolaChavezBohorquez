@@ -71,6 +71,11 @@ I am an undergraduate Business Administration with a specialization in Marketing
 
 <img align='right' src='https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif' width='100"'>
 
+## Sembremos plantas :blossom: !
+
+## Can Help You With :star: :star:  :
+
+## Open For Opportunities :purple_heart: !
 
 
 ## Contact Me:
