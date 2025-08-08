@@ -31,13 +31,68 @@ I am an undergraduate Business Administration with a specialization in Marketing
 <!-- Sección de Skills -->
 <h3 align="center"> Skills</h3>
 
+
 <!-- Subtítulo Front End -->
 <h4 align="center"> Front End</h4>
-
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </div>
+
+<!-- CMS & Web Builders -->
+<h4 align="center"> Web Builders</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</div>
+
+<!-- Diseño / Design Graphic -->
+<h4 align="center">🎨 Design Graphic </h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere" />
+</div>
+
+
+<table>
+  
+  <tr>
+    <td align="center">
+      <h4>🚀 I want to Learn</h4>
+      <img src="https://skillicons.dev/icons?i=threejs,react" />
+    </td>
+    <td align="center">
+      <h4>Tools</h4>
+      <img src="https://skillicons.dev/icons?i=vscode" />
+    </td>
+      <td align="center">
+      <h4>Base de Datos</h4>
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </td>
+  </tr>
+</table>
+
+<img align='right' src='https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif' width='100"'>
+
+
+
+## Contact Me:
+
+Let's discuss your unique project needs, whether it's web scraping, data extraction, or automation. I am ready to collaborate and turn your vision into a reality. 🌟
+
+<section align="center" style="margin-left: 10px; margin-bottom: 27px;">
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.upwork.com/freelancers/dagima6">
+		<img src="[https://www.svgrepo.com/svg/521502/behance.svg" width="45px">
+	</a>
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://github.com/Paolachavezbohorquez">
+		<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="45px">
+	</a>
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://www.linkedin.com/in/paola-chavez-bohorquez/">
+		<img src="https://www.svgrepo.com/show/138936/linkedin.svg" width="45px">
+	</a>
+	<a style="margin-left: 12px; text-decoration: none;" target="_blank" href="https://instagram.com/paolachavezbohorquez">
+		<img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="45px">
+	</a>
+	
+</section>
+
+<!--- contact list section end --->
 
 <hr/>
