@@ -22,7 +22,18 @@ I am an undergraduate Business Administration with a specialization in Marketing
 
 <hr/>
 
-<h2 align="center">⚒️ I love this Lenguage ⚒️</h2>
+<h2 align="center">
+  ⭐ Programming Languages  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</h2>
+
+<img align='left' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+<!-- Sección de Skills -->
+<h3 align="center"> Skills</h3>
+
+<!-- Subtítulo Front End -->
+<h4 align="center"> Front End</h4>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" /><br>
