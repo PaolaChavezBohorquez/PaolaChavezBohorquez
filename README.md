@@ -22,11 +22,11 @@ I am an undergraduate Business Administration with a specialization in Marketing
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ I love this Lenguage ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,github,c,javascript,typescript,express,mongodb,java" /><br>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,figma,git" />
 </div>
 
 <hr/>
