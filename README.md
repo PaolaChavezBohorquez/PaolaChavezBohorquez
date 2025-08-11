@@ -9,14 +9,14 @@
 ❤️ Passionate about learning, building, and bringing to life **productive, innovative, and creative** projects.  
 👩‍👦‍👦 Proud mom of **Matthew** and **Fettuccini** 🐾.  
 
-🍝 **Passionate about international cuisine**: Italian, Peruvian, Japanese, and Korean.  
+🍒 **I love cook**: Italian, Peruvian, Japanese, and Korean.  
 💻 **In love with coding since I was 14** — won a frontend contest using PowerPoint 25 years ago.  
 🎨 **Designer at heart**: I love creating beautiful, functional, and meaningful projects.  
 🙏 **Gifted by God** with a special talent for improving ideas and taking them to the next level.  
 
 ---
 
-## 💻 Technology & Design
+## 💻 Technology & Design 🍒
 
 - 💖 **Passionate about Front-End**: HTML, CSS, and JavaScript.  
 - 🎨 Web design and development in **WordPress**.  
@@ -26,7 +26,7 @@
 
 ---
 
-## 📈 Marketing & Strategy
+## 📌 Marketing & Strategy
 
 - Brand strategy and positioning.  
 - Digital marketing and social media management.  
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌍 Languages
+## 🖼 Languages
 
 - 🇪🇸 **Spanish**: Native.  
 - 🇺🇸 **English**: Intermediate.  
