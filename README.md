@@ -2,22 +2,77 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+# 🌺 About Me <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 
-I am an undergraduate Business Administration with a specialization in Marketing. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Brand Strategy, and digital marketing**
-- 🌱 I’m currently learning ...
-  
-  - HTML
-  - CSS
-  - JAVASCRIPT
-  - Advanced UX/UI design  
-  - AI integration for marketing & design processes  
-  - Web-based 3D & animation (Three.js & WebGL) 
+🎓 **Bachelor’s Degree in Business Administration** with a specialization in **Marketing**.  
+💡 **Product Manager**: I create, develop, and innovate products, focusing on commercial strategies and creativity.  
+❤️ Passionate about learning, building, and bringing to life **productive, innovative, and creative** projects.  
+👩‍👦‍👦 Proud mom of **Matthew** and **Fettuccini** 🐾.  
+
+🍝 **Passionate about international cuisine**: Italian, Peruvian, Japanese, and Korean.  
+💻 **In love with coding since I was 14** — won a frontend contest using PowerPoint 25 years ago.  
+🎨 **Designer at heart**: I love creating beautiful, functional, and meaningful projects.  
+🙏 **Gifted by God** with a special talent for improving ideas and taking them to the next level.  
+
+---
+
+## 💻 Technology & Design
+
+- 💖 **Passionate about Front-End**: HTML, CSS, and JavaScript.  
+- 🎨 Web design and development in **WordPress**.  
+- 📚 Currently learning **Advanced UX/UI Design** to create unique digital experiences.  
+- 🤖 **AI integration** for marketing and design processes.  
+- 🎞 Love **animation**, especially **3D animations** and development with **Three.js** and **WebGL**.  
+
+---
+
+## 📈 Marketing & Strategy
+
+- Brand strategy and positioning.  
+- Digital marketing and social media management.  
+- Branding and visual design.  
+- Market research and analysis.  
+- Product creation and innovative business proposals.  
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 **Spanish**: Native.  
+- 🇺🇸 **English**: Intermediate.  
+- 🇰🇷 **Korean**: Basic.  
+- 🇯🇵 **Japanese**: Basic.  
+- 🇮🇹 **Italian**: Learning.  
+- 🇮🇱 **Hebrew**: Learning.  
+
+---
+
+✨ *I believe design and strategy can turn ideas into inspiring realities.*  
     
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+
+---
+
+## 💼 Experience
+
+- **Product Manager** with a creative and strategic mindset.  
+- **UX/UI Designer** currently completing my degree.  
+- **Front-end enthusiast**: HTML, CSS, JavaScript.  
+- **WordPress web designer**: from landing pages to full websites.  
+
+---
+
+## 📌 Interests
+
+- Crafting unique digital experiences.  
+- Front-end development and design.  
+- Combining creativity with functionality in every project.  
+
+---
+
+## ⛪ Faith & Values: I'm Catholic ⭐🕊
+
+In my free time, I enjoy listening to the Word of God and living my Catholic faith through the Eucharist and the sacraments.  
+
 - 📫 Reach out to me at: <a href="pchavezbohorquez@gmail.com">pchavezbohorquez@gmail.com</a>
 
 <hr/>
