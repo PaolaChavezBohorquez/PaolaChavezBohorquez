@@ -71,7 +71,7 @@
 
 ## ⛪ Faith & Values: I'm Catholic ⭐🕊
 
-In my free time, I enjoy listening to the Word of God and living my Catholic faith through the Eucharist and the sacraments.  
+I enjoy listening to the Word of God and living my Catholic faith through the Eucharist and the sacraments and listen music christian. 
 
 - 📫 Reach out to me at: <a href="pchavezbohorquez@gmail.com">pchavezbohorquez@gmail.com</a>
 
