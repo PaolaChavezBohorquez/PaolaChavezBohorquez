@@ -7,7 +7,7 @@
 🎓 **Bachelor’s Degree in Business Administration** with a specialization in **Marketing**.  
 💡 **Product Manager**: I create, develop, and innovate products, focusing on commercial strategies and creativity.  
 ❤️ Passionate about learning, building, and bringing to life **productive, innovative, and creative** projects.  
-👩‍👦‍👦 Proud mom of **Matthew** and **Fettuccini** 🐾.  
+👩‍👦‍👦 Proud mom of **Matthew** and **Rocco** 🐾.  
 
 🍒 **I love cook**: Italian, Peruvian, Japanese, and Korean.  
 💻 **In love with coding since I was 14** — won a frontend contest using PowerPoint 25 years ago.  
